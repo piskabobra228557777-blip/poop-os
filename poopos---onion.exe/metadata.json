@@ -1,0 +1,6 @@
+{
+  "name": "poopOS - Onion.exe",
+  "description": "Операционная система poopOS 15.4 Liquid Glass с набором приложений и мультимедиа.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
